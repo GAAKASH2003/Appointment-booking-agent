@@ -151,3 +151,7 @@ os.environ["LANGCHAIN_API_KEY"] = "your-key"
 | `iteration` | int | Loop iteration counter |
 | `logs` | List[str] | Step-by-step audit trail |
 
+
+## Flow diagram
+<img width="1262" height="611" alt="image" src="https://github.com/user-attachments/assets/8084b585-8404-4e3b-bc92-5d2a06db9c8c" />
+
